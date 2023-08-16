@@ -10,7 +10,7 @@
 :root {
     /* Background Color */
     --primary-color: #FD4766;
-    --secondary-color: #0e1525;
+    --secondary-color: #0c091b;
     --bg-dark-blue: #091020;
     --bg-white: #fff;
     --gray-color: #c6c9d8bf;
@@ -221,7 +221,7 @@ button {
     width: 100%;
     height: auto;
     min-height: 650px;
-    background-image: url('../images/hijabi\ bg.jpg');
+    background-image: url('../images/bg 4.jpg');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -394,7 +394,6 @@ button {
 .footer_wrapper .copyright-text a {
     color: var(--primary-color);
 }
-<!--Responsive Code-->
 @media (max-width:991px) {
 
     /* custom css */
